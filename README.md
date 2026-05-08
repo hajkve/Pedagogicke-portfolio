@@ -3,7 +3,7 @@ Bc. studium - Speciální pedagogika a informatika
 Univerzita Palackého v Olomouci
 Pedagogická fakulta
 
-Autorka: Věra Hájková
+**Autorka:** Věra Hájková
 
 ## Odborná část
 Materiály z oblasti informatiky a ICT.
