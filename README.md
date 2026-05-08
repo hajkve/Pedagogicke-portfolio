@@ -1,4 +1,9 @@
 # Pedagogické portfolio
+Bc. studium - Speciální pedagogika a informatika
+Univerzita Palackého v Olomouci
+Pedagogická fakulta
+
+Autorka: Věra Hájková
 
 ## Odborná část
 Materiály z oblasti informatiky a ICT.
@@ -10,4 +15,4 @@ Výukové materiály, pracovní listy a prezentace.
 Reflexe a zkušenosti z praxí.
 
 ## Přečtená literatura
-Seznam odborné literatury.
+Seznam přečtené literatury
