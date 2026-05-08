@@ -1,4 +1,6 @@
 # Pedagogické portfolio
+
+
 Bc. studium - Speciální pedagogika a informatika
 Univerzita Palackého v Olomouci
 Pedagogická fakulta
